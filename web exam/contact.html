@@ -1,0 +1,56 @@
+n<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>UMU WebDev - Contact</title>
+  <link rel="stylesheet" href="styles.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css" integrity="sha512-..." crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+<body>
+  <header class="site-header">
+    <div class="brand"><h1>Contact Us</h1></div>
+    <button id="navToggle3" class="nav-toggle" aria-label="Toggle navigation"><i class="fa fa-bars"></i></button>
+    <nav id="mainNav3" class="main-nav">
+      <a href="index.html">Home</a>
+      <a href="about.html">About</a>
+      <a href="contact.html">Contact</a>
+    </nav>
+  </header>
+
+  <main class="container">
+    <h2>Get in touch</h2>
+    <form id="contactForm" novalidate>
+      <label for="name">Full name</label>
+      <input type="text" id="name" name="name" required>
+
+      <label for="email">Email address</label>
+      <input type="email" id="email" name="email" required>
+
+      <label for="message">Message</label>
+      <textarea id="message" name="message" rows="5" required></textarea>
+
+      <button type="submit" class="btn">Send message</button>
+    </form>
+
+    <div class="contact-info">
+      <h3>Other ways to reach us</h3>
+      <p><i class="fa fa-phone"></i> +256 700 000000</p>
+      <p><i class="fa fa-envelope"></i> group@example.com</p>
+	  <p style="font-family:arial, sans-serif; font-size: 18px;"><i class="fa-brands fa-twitter"style="color:#1da1f2;"></I> Williams.twitts</p>
+	  <p  style="font-family:arial, sans-serif; font-size: 18px;"><i class="fa-brands fa-instagram"style="color:#e4405f;"></i>Joshic</p>
+    </div>
+  </main>
+
+  <footer>
+    <p>Group Members </p>
+    <ul class="members-list">
+      <li>KALANZI JOSEPH  2025-B072-31998</li>
+      <li>KATUMBA WILLIAM  2025-B072-31988</li>
+    </ul>
+    <p class="copyright">&copy; 2025 UMU WebDev GroupX</p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
