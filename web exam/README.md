@@ -7,6 +7,9 @@
 <ul style="color:red">
 <LI><P>GROUP MEMBERS</P></LI>
 <li>KALANZI JOSEPH - 2025-B072-31998</li>
+<LI>KAGGA ALEX-22025-B072-32313</LI>
+	   <LI>KATUMBA WILLIAM-2025-B072-31988</LI>
+
 </ul>
 
 <h2>Project Structure</h2>
