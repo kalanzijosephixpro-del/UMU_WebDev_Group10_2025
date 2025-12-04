@@ -1,4 +1,4 @@
-<h1>UMU WebDev Group Project - GroupX</h1>
+<h1>UMU WebDev Group Project - Group10</h1>
 
 <p>This repository contains the multi-page interactive website built for the Web Development Technologies course (Semester I, 2025/2026).</p>
 
@@ -14,7 +14,7 @@
 
 <h2>Project Structure</h2>
 <pre>
-UMU_WebDev_GroupX_2025/
+UMU_WebDev_Group10_2025/
 ├─ index.html
 ├─ about.html
 ├─ contact.html
